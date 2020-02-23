@@ -70,3 +70,11 @@ y = int(y)
 szachy(x,y)
 
 print("Poggers!")
+
+
+
+# 2020.02.23 B.Kuka:
+# 1. nie działa podawanie x i y (można podać literę i program wysypuje się)
+# 2. po podanie np. 3 i 3, szachownica rysuje sie w większym rozmiarze
+# 3. prosze usunąć komentarze (GIT będize to załatwiać za nas)
+# 4. częśc komend w pętlach mozna przekształcić w funkcje i sparametryzować
